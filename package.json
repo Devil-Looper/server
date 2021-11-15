@@ -10,7 +10,7 @@
   "keywords": [
     "todoapp"
   ],
-  "author": "Nasir",
+  "author": "Hamza",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
