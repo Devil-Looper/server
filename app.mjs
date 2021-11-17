@@ -6,7 +6,7 @@ import mongoose from "mongoose";
 //   "mongodb+srv://nasir:Nasir12345@cluster0.nr4e4.mongodb.net/myFirstdb?retryWrites=true&w=majority"
 // )
 
-mongoose.connect("mongodb+srv://devil:123@cluster0.tmwli.mongodb.net/devil?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://devil:123@cluster0.tmwli.mongodb.net/devil?retryWrites=true&w=majority");
 
 
 const User = mongoose.model("User", {
